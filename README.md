@@ -19,3 +19,13 @@ The wrangling efforts were:
 * Changing column types.
 * Renaming columns' variables accordingly. For example 1 to 'Never' in column ST115Q01 (skip classes within school)
 * Adding new columns: global_region, comb_core, ECS_level.
+
+## Summary of Findings
+
+Basically, my findings were:
+
+1. Girls have on average higher scores in Reading than boys in every country that participated in the PISA Report.
+2. Immigration Status doesn't seem to have a strong relationship with the students' performance.
+3. Use of the Internet is related to higher scores, regardless of the ECS level.
+4. Students who arrive late to school, skip classes within school or skip whole school days tend to have lower scores.
+5. The lower the ECS level, the more students tend to skip whole school days.
