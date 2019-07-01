@@ -1,4 +1,4 @@
-# Investigating-PISA-Report-Dataset
+# Data Exploration of PISA report: Relationships Between Student Performance, Socioeconomic Status and Internet Access
 ## by Alfredo Yigal Núñez Varillas
 
 
@@ -29,3 +29,11 @@ Basically, my findings were:
 3. Use of the Internet is related to higher scores, regardless of the ECS level.
 4. Students who arrive late to school, skip classes within school or skip whole school days tend to have lower scores.
 5. The lower the ECS level, the more students tend to skip whole school days.
+
+## Key Insights for Presentation
+
+My presentation will focus on all previous findings except the second point, as it didn't provide more interesting insights to discuss.
+
+For this presentation, basically I added titles and labels and set a unique color (if the color wasn't an indicator) for all charts. Likewise, I verified that the graphics were visually ordered, with no text on top of the plots, titles no too big nor too small, etc.
+
+This polishing were made in the Data Exploration notebook. Originally, I didn't make any changes to the plots I obtained while working on this project, as I understood what was going on.
